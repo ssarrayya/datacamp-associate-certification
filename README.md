@@ -1,4 +1,4 @@
-# DataCamp Associate Certification Exam
+# DataCamp Data Analyst Associate Certification Exam
 
 ## Pet Box Subscription
 
@@ -26,5 +26,5 @@ The dataset contains 1500 records and 8 variables. More on the variables can be 
 
 
 The review process took 1 week from the submission date. Here's my certification :)
-![Author's DataCamp Data Analyst Certification](https://github.com/ssarrayya/datacamp-associate-certification/blob/main/Certification.jpg) 
+![Author's DataCamp Data Analyst Associate Certification](https://github.com/ssarrayya/datacamp-associate-certification/blob/main/Certification.jpg) 
 
