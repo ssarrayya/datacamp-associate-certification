@@ -1,4 +1,4 @@
-# DataCamp Data Analyst Associate Certification Exam
+# DataCamp Associate Data Analyst Certification Exam
 
 ## Pet Box Subscription
 
